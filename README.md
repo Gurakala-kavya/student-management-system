@@ -28,6 +28,20 @@ Table: student
 3. Update DB credentials in code
 4. Run StudentDriver.java
 
+## 📸 Screenshots
+
+### 🔹 Insert Operation
+![Insert](screenshots/insert.png)
+
+### 🔹 Update Operation
+![Update](screenshots/update.png)
+
+### 🔹 Delete Operation
+![Delete](screenshots/delete.png)
+
+### 🔹 Output
+![Output](screenshots/output.png)
+
 ## 🚀 Future Enhancements
 
 - Add GUI using Java Swing
