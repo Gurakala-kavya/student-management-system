@@ -27,3 +27,9 @@ Table: student
 2. Create database: student
 3. Update DB credentials in code
 4. Run StudentDriver.java
+
+## 🚀 Future Enhancements
+
+- Add GUI using Java Swing
+- Implement REST API using Spring Boot
+- Add user authentication
