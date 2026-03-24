@@ -1,6 +1,6 @@
 
 ## Student Management System
--This is a Java-based application that performs CRUD operations on student data using JDBC and PostgreSQL. It allows users to add, update, delete, and view student records efficiently.
+This is a Java-based application that performs CRUD operations on student data using JDBC and PostgreSQL. It allows users to add, update, delete, and view student records efficiently.
 
 ## 💻 Technologies Used
 - Java
